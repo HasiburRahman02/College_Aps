@@ -1,0 +1,11 @@
+<!--suppress AndroidDomInspection -->
+<resources>
+    <string name="app_name">College_Aps</string>
+    <string name="deda">@front/bebasneueregular</string>
+    <string name="mone_bold">@front/montserrat_alternates_bold</string>
+    <string name="mone_italic">@front/montserrat_alternates_italic</string>
+    <string name="signika_light">@front/signika_negative_light</string>
+    <string name="signika_bold">@front/signikan_egative_bold</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
